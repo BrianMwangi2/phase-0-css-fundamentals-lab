@@ -1,5 +1,38 @@
+h1{
+  color: black;
+  text-align: center;
+  text-indent: 10px;
+}
+header{
+  nav-down: auto;
+  text-align: center;
+}
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+  text-wrap: calc(center);
+  }
+p{
+text-align: center;
+color:black;
+float: calc(center);
+padding: auto;
+word-spacing: normal;
 }
+
+#details{
+text-align: center;
+text-wrap: calc(center);
+text-decoration-color: red;
+background-color: red;
+grid: 30px;
+float: calc(center);
+columns: calc(4);
+
+}
+ 
+
+
